@@ -1,0 +1,16 @@
+D:\Hanif\Coding\Visual Basic\Perulangan\Perulangan\bin\Debug\net8.0-windows\Perulangan.exe
+D:\Hanif\Coding\Visual Basic\Perulangan\Perulangan\bin\Debug\net8.0-windows\Perulangan.deps.json
+D:\Hanif\Coding\Visual Basic\Perulangan\Perulangan\bin\Debug\net8.0-windows\Perulangan.runtimeconfig.json
+D:\Hanif\Coding\Visual Basic\Perulangan\Perulangan\bin\Debug\net8.0-windows\Perulangan.dll
+D:\Hanif\Coding\Visual Basic\Perulangan\Perulangan\bin\Debug\net8.0-windows\Perulangan.pdb
+D:\Hanif\Coding\Visual Basic\Perulangan\Perulangan\obj\Debug\net8.0-windows\Perulangan.Form1.resources
+D:\Hanif\Coding\Visual Basic\Perulangan\Perulangan\obj\Debug\net8.0-windows\Perulangan.vbproj.GenerateResource.cache
+D:\Hanif\Coding\Visual Basic\Perulangan\Perulangan\obj\Debug\net8.0-windows\Perulangan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hanif\Coding\Visual Basic\Perulangan\Perulangan\obj\Debug\net8.0-windows\Perulangan.AssemblyInfoInputs.cache
+D:\Hanif\Coding\Visual Basic\Perulangan\Perulangan\obj\Debug\net8.0-windows\Perulangan.AssemblyInfo.vb
+D:\Hanif\Coding\Visual Basic\Perulangan\Perulangan\obj\Debug\net8.0-windows\Perulangan.vbproj.CoreCompileInputs.cache
+D:\Hanif\Coding\Visual Basic\Perulangan\Perulangan\obj\Debug\net8.0-windows\Perulangan.dll
+D:\Hanif\Coding\Visual Basic\Perulangan\Perulangan\obj\Debug\net8.0-windows\refint\Perulangan.dll
+D:\Hanif\Coding\Visual Basic\Perulangan\Perulangan\obj\Debug\net8.0-windows\Perulangan.pdb
+D:\Hanif\Coding\Visual Basic\Perulangan\Perulangan\obj\Debug\net8.0-windows\Perulangan.genruntimeconfig.cache
+D:\Hanif\Coding\Visual Basic\Perulangan\Perulangan\obj\Debug\net8.0-windows\ref\Perulangan.dll
